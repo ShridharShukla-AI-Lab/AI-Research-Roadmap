@@ -45,10 +45,10 @@ A structured roadmap documenting my journey toward becoming an AI Research Scien
 📖 Current Progress
 
 - Area| Status
-. Reading Roadmap| 🟢 Started
-. Paper Notes| 🟢 In Progress
-. Paper Reproductions| 🟢 In Progress
-. YouTube Videos| 🟢 In Progress
+- Reading Roadmap| 🟢 Started
+- Paper Notes| 🟢 In Progress
+- Paper Reproductions| 🟢 In Progress
+- YouTube Videos| 🟢 In Progress
 
 ---
 
