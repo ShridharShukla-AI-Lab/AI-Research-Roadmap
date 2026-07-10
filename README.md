@@ -44,7 +44,7 @@ ROADMAP.md
 
 📖 Current Progress
 
-Area| Status
+- Area| Status
 Reading Roadmap| 🟢 Started
 Paper Notes| 🟢 In Progress
 Paper Reproductions| 🟢 In Progress
