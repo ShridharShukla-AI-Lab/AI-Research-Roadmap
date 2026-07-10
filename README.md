@@ -42,15 +42,23 @@ A structured roadmap documenting my journey toward becoming an AI Research Scien
 
 ---
 
-📖 Current Progress
+## 📖 Current Progress
 
-- Area| Status
-- Reading Roadmap| 🟢 Started
-- Paper Notes| 🟢 In Progress
-- Paper Reproductions| 🟢 In Progress
-- YouTube Videos| 🟢 In Progress
+| Milestone | Status |
+|------------|--------|
+| Repository Created | ✅ Completed |
+| Folder Structure | ✅ Completed |
+| Reading Progress Tracker | ✅ Completed |
+| README | ✅ Completed |
+| Roadmap | ⏳ Next |
+| Paper #1: Attention Is All You Need | ⏳ Upcoming |
+| First Reproduction | ⏳ Upcoming |
+| First YouTube Video | ⏳ Upcoming |
+
+
 
 ---
+| First LinkedIn Article | ⏳ Upcoming |
 
 🚀 First Reading Goal
 
