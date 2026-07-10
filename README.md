@@ -31,24 +31,24 @@ A structured roadmap documenting my journey toward becoming an AI Research Scien
 
 📂 Repository Structure
 
-paper-notes/
-paper-reproductions/
-datasets/
-notebooks/
-youtube-resources/
-assets/
-reading-progress.md
-ROADMAP.md
+- paper-notes/
+- paper-reproductions/
+- datasets/
+- notebooks/
+- youtube-resources/
+- assets/
+- reading-progress.md
+- ROADMAP.md
 
 ---
 
 📖 Current Progress
 
 - Area| Status
-Reading Roadmap| 🟢 Started
-Paper Notes| 🟢 In Progress
-Paper Reproductions| 🟢 In Progress
-YouTube Videos| 🟢 In Progress
+. Reading Roadmap| 🟢 Started
+. Paper Notes| 🟢 In Progress
+. Paper Reproductions| 🟢 In Progress
+. YouTube Videos| 🟢 In Progress
 
 ---
 
