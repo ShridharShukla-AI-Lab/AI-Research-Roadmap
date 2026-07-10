@@ -54,11 +54,10 @@ A structured roadmap documenting my journey toward becoming an AI Research Scien
 | Paper #1: Attention Is All You Need | ⏳ Upcoming |
 | First Reproduction | ⏳ Upcoming |
 | First YouTube Video | ⏳ Upcoming |
-
+| First LinkedIn Article | ⏳ Upcoming |
 
 
 ---
-| First LinkedIn Article | ⏳ Upcoming |
 
 🚀 First Reading Goal
 
